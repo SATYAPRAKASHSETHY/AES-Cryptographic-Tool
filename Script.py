@@ -1,5 +1,5 @@
 # A Symmetric Cryptographic Encryption and Decryption in Python
-# done b @Sri_Programmer
+# done by @SATYAA
 # Python v3.7.2
 
 # imports 
